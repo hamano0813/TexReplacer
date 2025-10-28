@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- Logo -->
+        <file>logo/logo.ico</file>
+        <file>logo/logo_black.svg</file>
+        <file>logo/logo_white.svg</file>
+        <!-- Main Window -->
+        <file>icon/option_black.svg</file>
+        <file>icon/option_white.svg</file>
+        <file>icon/help_black.svg</file>
+        <file>icon/help_white.svg</file>
+        <file>icon/about_black.svg</file>
+        <file>icon/about_white.svg</file>
+
+        <!-- Public Icons -->
+        <file>icon/parameter_black.svg</file>
+        <file>icon/parameter_white.svg</file>
+
+        <!-- Option Interface -->
+        <file>icon/theme_black.svg</file>
+        <file>icon/theme_white.svg</file>
+        <file>icon/palette_black.svg</file>
+        <file>icon/palette_white.svg</file>
+        <file>icon/zoom_black.svg</file>
+        <file>icon/zoom_white.svg</file>
+   </qresource>
+</RCC>
